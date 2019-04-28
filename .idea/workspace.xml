@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc8dec21-6f34-4d29-b6df-b2ad86e817bd" name="Default" comment="" />
+    <list default="true" id="dc8dec21-6f34-4d29-b6df-b2ad86e817bd" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/index/manifest.plist" afterPath="$PROJECT_DIR$/index/manifest.plist" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,9 +40,21 @@
       <file leaf-file-name="manifest.plist" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index/manifest.plist">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="34" column="31" lean-forward="false" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="qrcodeios.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Desktop/qrcodeios.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="337" column="51" lean-forward="false" selection-start-line="337" selection-start-column="17" selection-end-line="337" selection-end-column="51" />
+              <folding>
+                <marker date="1556454703015" expanded="true" signature="581:875" ph="INSERT INTO luojilab_app_info... " />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -57,6 +71,7 @@
         <option value="$PROJECT_DIR$/web/index.html" />
         <option value="$PROJECT_DIR$/web/manifest.plist" />
         <option value="$PROJECT_DIR$/index/index.html" />
+        <option value="$PROJECT_DIR$/index/manifest.plist" />
       </list>
     </option>
   </component>
@@ -238,10 +253,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Desktop/qrcodeios.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="337" column="51" lean-forward="false" selection-start-line="337" selection-start-column="17" selection-end-line="337" selection-end-column="51" />
+          <folding>
+            <marker date="1556454703015" expanded="true" signature="581:875" ph="INSERT INTO luojilab_app_info... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index/manifest.plist">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="31" lean-forward="false" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>

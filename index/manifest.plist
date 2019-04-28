@@ -1,5 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
 	<key>items</key>
@@ -19,12 +17,6 @@
 					<key>url</key>
 					<string>https://www.baidu.com</string>
 				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>url</key>
-					<string>https://www.baidu.com</string>
-				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
@@ -35,7 +27,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>iOSDemo</string>
+				<string>&#24471;&#21040;</string>
 			</dict>
 		</dict>
 	</array>
