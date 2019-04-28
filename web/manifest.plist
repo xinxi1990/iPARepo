@@ -23,7 +23,7 @@
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1556457677634&di=37296482f3f8cd27b38665396f169707&imgtype=0&src=http%3A%2F%2Ftablethype.de%2Fwp-content%2Fuploads%2F2015%2F08%2Fapple-logo.jpg</string>
+					<string>https://www.baidu.com</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -35,7 +35,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>myapp</string>
+				<string>chjz.0</string>
 			</dict>
 		</dict>
 	</array>
